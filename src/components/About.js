@@ -60,7 +60,7 @@ const About = () => {
               fontWeight: "bold",
               "&:hover": { backgroundColor: "#00c9a7" },
             }}
-            href="/Shirisha_Pabba_Resume.pdf"
+            href="/shirisha_pabba_resume.pdf"
             target="_blank"
           >
             Download Resume
