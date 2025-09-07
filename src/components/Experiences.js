@@ -43,7 +43,6 @@ const Experiences = () => {
       details: [
         "Gained hands-on experience in Full Stack development using HTML, CSS, JavaScript, React.js, Next.js, Zod, Node.js, and MongoDB.",
         "Contributed to a real-time project focused on building scalable and responsive web applications.",
-        "Implemented Google authentication using NextAuth and integrated geolocation features.",
         "Actively involved in debugging, unit testing, testing, and delivering efficient frontend and backend solutions using the MERN stack.",
       ],
       technologies: [
