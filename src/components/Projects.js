@@ -20,14 +20,14 @@ const Projects = () => {
       github: "https://github.com/PabbaShirisha?tab=repositories",
       demo: "https://cheffreelance.netlify.app/",
     },
-    {
-      title: "Event Management System",
-      description:
-      "This is a web-based platform for event management where creators can register, log in, and manage events, while attendees can browse and join events. It features event filtering, secure Role-Based Access Control (RBAC), and a responsive Material-UI interface.",
-      tech: ["JavaScript","MUI", "React", "Node.js", "Express.js","MongoDB"],
-      github: "https://github.com/PabbaShirisha?tab=repositories",
-      demo: "#",
-    },
+    // {
+    //   title: "Event Management System",
+    //   description:
+    //   "This is a web-based platform for event management where creators can register, log in, and manage events, while attendees can browse and join events. It features event filtering, secure Role-Based Access Control (RBAC), and a responsive Material-UI interface.",
+    //   tech: ["JavaScript","MUI", "React", "Node.js", "Express.js","MongoDB"],
+    //   github: "https://github.com/PabbaShirisha?tab=repositories",
+    //   demo: "#",
+    // },
     {
       title: "DigiMenu - Digital Menu System",
       description:
